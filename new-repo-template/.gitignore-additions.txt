@@ -1,0 +1,2 @@
+# linear workflow (ephemeral session file)
+.linear-issue
